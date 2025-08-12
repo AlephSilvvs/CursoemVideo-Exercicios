@@ -1,4 +1,4 @@
-'''Crie um programa que leia dois números e mostre as soma entre eles.'''
+"""Crie um programa que leia dois números e mostre as soma entre eles."""
 
 #pegunta o numero
 n1 = int(input('Digite um numero: '))

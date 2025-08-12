@@ -4,4 +4,4 @@
 n = int(input('Digite um número: '))
 
 # Mostra na tela o resultado.
-print(f'\033[31mAnalisando o valor {n}, seu antecessor é {n-1} e o seu sucessor é {n+2}\033[m') # Operações feitas dentro do format
+print(f'\033[31mAnalisando o valor {n}, seu antecessor é {n-1} e o seu sucessor é {n+1}\033[m') # Operações feitas dentro do format

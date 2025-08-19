@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01">
-      <change afterPath="$PROJECT_DIR$/ex010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +60,7 @@
     "Python.ex008.executor": "Run",
     "Python.ex009.executor": "Run",
     "Python.ex010.executor": "Run",
+    "Python.ex11.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,30 +79,7 @@
       <recent name="C:\Users\alefe\PycharmProjects\CursoemVideo-Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex010">
-    <configuration name="ex006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoemVideo-Exercicios" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex006.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex11">
     <configuration name="ex007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo-Exercicios" />
       <option name="ENV_FILES" value="" />
@@ -194,13 +172,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo-Exercicios" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex11" />
         <item itemvalue="Python.ex010" />
         <item itemvalue="Python.ex009" />
         <item itemvalue="Python.ex008" />
         <item itemvalue="Python.ex007" />
-        <item itemvalue="Python.ex006" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +224,8 @@
       <workItem from="1755007770502" duration="431000" />
       <workItem from="1755009960435" duration="1452000" />
       <workItem from="1755031950608" duration="7157000" />
-      <workItem from="1755269169820" duration="909000" />
+      <workItem from="1755269169820" duration="1024000" />
+      <workItem from="1755632454866" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -321,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755038707662</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="01">
+      <option name="closed" value="true" />
+      <created>1755270088875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755270088875</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

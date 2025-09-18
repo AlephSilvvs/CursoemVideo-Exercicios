@@ -5,7 +5,8 @@ desse ângulo"""
 cor = {'limpa':'\033[m',
        'azul':'\033[1;34m',
        'vermelho':'\033[1;31m',
-       'verde':'\033[32m','branco':'\033[1;38m'}
+       'verde':'\033[32m',
+       'branco':'\033[1;38m'}
 
 # Importa a biblioteca
 from math import radians, sin, cos, tan

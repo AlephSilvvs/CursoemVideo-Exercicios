@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01">
-      <change afterPath="$PROJECT_DIR$/ex030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
-    </list>
+    <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +255,7 @@
       <workItem from="1762540192868" duration="124000" />
       <workItem from="1762780712942" duration="2015000" />
       <workItem from="1762998400134" duration="522000" />
-      <workItem from="1763036383766" duration="4063000" />
+      <workItem from="1763036383766" duration="4421000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -518,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762998797716</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="01">
+      <option name="closed" value="true" />
+      <created>1763040475853</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1763040475853</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +554,7 @@
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1755032687314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1755634649243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1755718594953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1763040457983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1763040808996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1755270035823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1755034602464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1755633091346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="02">
-      <change afterPath="$PROJECT_DIR$/ex028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CursoemVideo-Exercicios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CursoemVideo-Exercicios.iml" afterDir="false" />
+    <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01">
+      <change afterPath="$PROJECT_DIR$/ex029.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,79 +53,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.ex003.executor": "Run",
-    "Python.ex004.executor": "Run",
-    "Python.ex005.executor": "Run",
-    "Python.ex006.executor": "Run",
-    "Python.ex007.executor": "Run",
-    "Python.ex008.executor": "Run",
-    "Python.ex009.executor": "Run",
-    "Python.ex010.executor": "Run",
-    "Python.ex012.executor": "Run",
-    "Python.ex013.executor": "Run",
-    "Python.ex014.executor": "Run",
-    "Python.ex015.executor": "Run",
-    "Python.ex016.executor": "Run",
-    "Python.ex017.executor": "Run",
-    "Python.ex018.executor": "Run",
-    "Python.ex019.executor": "Run",
-    "Python.ex020.executor": "Run",
-    "Python.ex021.executor": "Run",
-    "Python.ex022.executor": "Run",
-    "Python.ex023.executor": "Run",
-    "Python.ex024.executor": "Run",
-    "Python.ex025.executor": "Run",
-    "Python.ex026.executor": "Run",
-    "Python.ex027.executor": "Run",
-    "Python.ex028.executor": "Run",
-    "Python.ex11.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/alefe/PycharmProjects/CursoemVideo-Exercicios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "DSTables",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex11.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alefe/PycharmProjects/CursoemVideo-Exercicios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;DSTables&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alefe\PycharmProjects\CursoemVideo-Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex028">
-    <configuration name="ex024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoemVideo-Exercicios" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex024.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex029">
     <configuration name="ex025" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo-Exercicios" />
       <option name="ENV_FILES" value="" />
@@ -219,13 +195,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo-Exercicios" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex029.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex029" />
         <item itemvalue="Python.ex028" />
         <item itemvalue="Python.ex027" />
         <item itemvalue="Python.ex026" />
         <item itemvalue="Python.ex025" />
-        <item itemvalue="Python.ex024" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +254,8 @@
       <workItem from="1755809024727" duration="10000" />
       <workItem from="1762540089005" duration="56000" />
       <workItem from="1762540192868" duration="124000" />
-      <workItem from="1762780712942" duration="1483000" />
+      <workItem from="1762780712942" duration="2015000" />
+      <workItem from="1762998400134" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="01">
       <option name="closed" value="true" />
@@ -497,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761661314992</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="01">
+      <option name="closed" value="true" />
+      <created>1762782220210</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1762782220210</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -515,9 +523,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="01" />
     <MESSAGE value="02" />
-    <option name="LAST_COMMIT_MESSAGE" value="02" />
+    <MESSAGE value="01" />
+    <option name="LAST_COMMIT_MESSAGE" value="01" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CursoemVideo_Exercicios$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1755036802336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

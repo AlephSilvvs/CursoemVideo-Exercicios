@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01">
-      <change afterPath="$PROJECT_DIR$/ex034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +86,7 @@
     "Python.ex032.executor": "Run",
     "Python.ex033.executor": "Run",
     "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
     "Python.ex11.executor": "Run",
     "Python.ex31.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -108,7 +109,7 @@
       <recent name="C:\Users\alefe\PycharmProjects\CursoemVideo-Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex034">
+  <component name="RunManager" selected="Python.ex035">
     <configuration name="ex014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo-Exercicios" />
       <option name="ENV_FILES" value="" />
@@ -197,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex31" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo-Exercicios" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -210,7 +211,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex31.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex035" />
         <item itemvalue="Python.ex034" />
         <item itemvalue="Python.ex014" />
         <item itemvalue="Python.ex033" />
         <item itemvalue="Python.ex032" />
-        <item itemvalue="Python.ex31" />
       </list>
     </recent_temporary>
   </component>
@@ -556,7 +557,23 @@
       <option name="project" value="LOCAL" />
       <updated>1765507576421</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="01">
+      <option name="closed" value="true" />
+      <created>1765723722974</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1765723722974</updated>
+    </task>
+    <task id="LOCAL-00039" summary="01">
+      <option name="closed" value="true" />
+      <created>1765723739937</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1765723739937</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,7 +1,7 @@
 """Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele,
 lendo o nome deles e escrevendo o nome do escolhido"""
 
-# Importa biblioteca, somente a função choice pois não usaremos outras funções no momento
+# Importa biblioteca, somente a função choice, pois não usaremos outras funções no momento
 from random import choice
 
 # Pergunta os nomes
@@ -17,7 +17,7 @@ print(f'O aluno escolhido foi{escolhido}')
 
 
 
-""" Melhor forma de fazer esse execicio
+""" Melhor forma de fazer esse execício
 
 
 import random

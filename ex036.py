@@ -15,7 +15,7 @@ prestacao = casa / (anos * 12)   # A pergunta das parcelas está em anos, mas o 
 
 
 # Mostra a usuário
-print (f'Para pagar uma casa de R${casa:.2f} em {anos}', end='')
+print (f'Para pagar uma casa de R${casa:.2f} em {anos} anos', end='')
 print (f' a prestação será de R${prestacao:.2f}')
 
 
@@ -23,4 +23,4 @@ print (f' a prestação será de R${prestacao:.2f}')
 if prestacao <= 30 / 100 * salario:
     print('Empréstimo pode ser CONCEDIDO!')
 else:
-    print(f'Emprestimo negado')
+    print(f'Emprestimo NEGADO!')

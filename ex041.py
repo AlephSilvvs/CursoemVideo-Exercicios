@@ -11,7 +11,7 @@ from datetime import date
 
 # Variáveis
 ano_atual = date.today().year                       # Ano atual do computador
-ano_nasci = int(input('Ano de Nascimento: '))    # Pergunta ao usuário
+ano_nasci = int(input('Ano de Nascimento: '))       # Pergunta ao usuário
 idade = ano_atual - ano_nasci                       # Transformar ano em idade
 
 print(f'O atleta tem {idade} anos.')

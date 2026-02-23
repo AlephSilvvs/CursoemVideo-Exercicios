@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d4b71479-8bdd-406b-ba9e-d43efcba368f" name="Changes" comment="01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex040.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex043.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +117,7 @@
       <recent name="C:\Users\alefe\PycharmProjects\CursoemVideo-Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex041">
+  <component name="RunManager" selected="Python.ex043">
     <configuration name="ex036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoemVideo-Exercicios" />
       <option name="ENV_FILES" value="" />
@@ -230,11 +230,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex043" />
         <item itemvalue="Python.ex041" />
         <item itemvalue="Python.ex040" />
         <item itemvalue="Python.ex039" />
         <item itemvalue="Python.ex036" />
-        <item itemvalue="Python.ex043" />
       </list>
     </recent_temporary>
   </component>
@@ -653,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771876156786</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="01">
+      <option name="closed" value="true" />
+      <created>1771878011979</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1771878011979</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

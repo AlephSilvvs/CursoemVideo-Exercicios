@@ -7,24 +7,25 @@ de acordo com a tabela abaixo:
 - 30 até 40: Obesidade
 - Acima de 40: Obesidade mórbida"""
 
-# Pergunta ao usuário
-altura = float(input('Qual a sua altura? '))
-peso = float(input('Qual o seu peso? '))
+# Variáveis
+altura = float(input('Qual a sua altura? (Kg) '))  # Pergunta ao usuário
+peso = float(input('Qual o seu peso? (m) '))
+imc =  peso / (altura ** 2)                          # Calculo do IMC
 
-# Calculo do IMC
-imc =  peso / altura ** 2
+print(f'O IMC dessa pessoa é de {imc:.1f}')
 
 # Estrutura condicional aninhada para cada classificação
 if 18.5 > imc:
-    print('Abaixo do Peso')
-elif 18.5 <= imc <25:
-    print('Peso Ideal')
+    print('Você está ABAIXO DO PESO normal')
+
+elif 18.5 <= imc < 25:
+    print('PARABÉNS,você está na faixa de PESO NORMAL')
+
 elif 25 <= imc <30:
-    print('Sobrepeso')
+    print('Você está em SOBREPESO')
+
 elif 30 <= imc < 40:
-    print('Obesidade')
+    print('Você está em OBESIDADE!!')
+
 else:
-    print('Obesidade Mórbida')
-
-
-print(f'{imc:.2f}')
+    print('Você está em OBESIDADE MÓRBIDA, cuidado!!!')

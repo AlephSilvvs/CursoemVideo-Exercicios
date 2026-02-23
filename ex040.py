@@ -9,11 +9,11 @@ nota2 = float(input('Digite mais uma nota escolar: '))
 
 media = (nota1 + nota2) / 2
 
-if media < 5.0:
+if media < 5:
     print(f'Reprovado')
-elif media == 5.0 or media< 6.9:
+elif 7 > media <= 5:
     print(f'Recuperação')
-else:
+else:                   # media >= 7:
     print('Parabens!! Você foi Aprovado')
 
 print(f'{media:.1f}')

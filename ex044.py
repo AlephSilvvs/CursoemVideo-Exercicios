@@ -18,7 +18,7 @@ print('''FORMAS DE PAGAMENTO
 
 opção = int(input('Qual é a opção? '))
 
-
+# Condição aninhada
 if opção == 1:
     total = preço - (preço * 10 / 100)
 
@@ -40,5 +40,5 @@ else:
     total = preço
     print('OPÇÃO INVÁLIDA de pagamentos. Tente novamente!.')
 
-
+# Mostra o resultado
 print(f'Sua compra de R${preço:.2f} vai custar R${total:.2f} no final')

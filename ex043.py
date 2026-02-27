@@ -14,18 +14,19 @@ imc =  peso / (altura ** 2)                          # Calculo do IMC
 
 print(f'O IMC dessa pessoa é de {imc:.1f}')
 
+
 # Estrutura condicional aninhada para cada classificação
-if 18.5 > imc:
+if 18.5 > imc:                                             # Abaixo do peso
     print('Você está ABAIXO DO PESO normal')
 
-elif 18.5 <= imc < 25:
+elif 18.5 <= imc < 25:                                     # Peso Normal
     print('PARABÉNS,você está na faixa de PESO NORMAL')
 
-elif 25 <= imc <30:
+elif 25 <= imc <30:                                        # Sobre peso
     print('Você está em SOBREPESO')
 
-elif 30 <= imc < 40:
+elif 30 <= imc < 40:                                       # Obesidade
     print('Você está em OBESIDADE!!')
 
-else:
+else:                                                      # Obesidade Mórbida
     print('Você está em OBESIDADE MÓRBIDA, cuidado!!!')
